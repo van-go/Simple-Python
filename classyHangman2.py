@@ -1,3 +1,4 @@
+# class based game
 import random
 
 
