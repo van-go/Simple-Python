@@ -1,4 +1,4 @@
-# Design a single-player Hangman game using function(s).
+# Design a single-player Hangman game using functions.
 import random
 
 # Welcome Screen & Get Username
